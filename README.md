@@ -1,6 +1,6 @@
 # Learning Graph Neural Networks (GNNs)
 
-This repo documents my journey into understanding Graph Neural Networks,  
+This repo documents our journey into understanding Graph Neural Networks,  
 what they are, how they work, and what problems they solve.
 
 ## Topics Covered
