@@ -1,2 +1,9 @@
 # Graphical-Neural-Network
-Goal is to learn what Graphical Neural Network is, and what it can do. Looking into Architecture like Graphical Attention Network and Graphical Convolution Network.
+Learning Graph Neural Networks (GNNs)
+This repo documents my journey into understanding Graph Neural Networks, what they are, how they work, and what problems they solve.
+Topics Covered:
+
+What is a Graph Neural Network (GNN)?
+Graph Convolutional Networks (GCN)
+Graph Attention Networks (GAT)
+Real-world applications of GNNs
