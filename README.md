@@ -1,7 +1,7 @@
 # Graphical-Neural-Network
-Learning Graph Neural Networks (GNNs)
+Learning Graph Neural Networks (GNNs)  
 This repo documents my journey into understanding Graph Neural Networks, what they are, how they work, and what problems they solve.
-Topics Covered:
+Topics Covered:  
 
 What is a Graph Neural Network (GNN)?
 Graph Convolutional Networks (GCN)
