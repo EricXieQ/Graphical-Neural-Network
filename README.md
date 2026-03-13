@@ -6,6 +6,6 @@ what they are, how they work, and what problems they solve.
 ## Topics Covered
 
 - What is a Graph Neural Network (GNN)?
-- Graph Convolutional Networks (GCN)
-- Graph Attention Networks (GAT)
+- Graph Convolutional Networks (GCN) implementation
+- Graph Attention Networks (GAT) implementation
 - Real-world applications of GNNs
